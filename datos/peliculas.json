@@ -1,0 +1,232 @@
+[
+    {
+        "codigo": "01",
+        "titulo": "Iron Man",
+        "año": "2008",
+        "director": "Jon Favreau",
+        "duracion": "126 minutos",
+        "info": "Iron Man (titulada Iron Man: el hombre de hierro en Hispanoamérica). Es la primera entrega del Universo cinematográfico de Marvel. <br><br>Es protagonizada por Robert Downey Jr, Terrence Howard, Jeff Bridges, Shaun Toub y Gwyneth Paltrow. <br><br>La trama gira en torno a Tony Stark, un empresario e ingeniero, que construye un exoesqueleto motorizado y se convierte en Iron Man, un superhéroe tecnológicamente avanzado. ",
+        "poster": "https://pics.filmaffinity.com/iron_man-108960873-large.jpg",
+        "trailer": "https://www.youtube.com/embed/8ugaeA-nMTc?si=wK8IU6wBQiKRq7sq"
+    },
+    {
+        "codigo": "02",
+        "titulo": "The Incredible Hulk",
+        "año": "2008",
+        "director": "Louis Leterrier",
+        "duracion": "112 minutos",
+        "info": "The Incredible Hulk (titulada El increíble Hulk en España y Hulk: El Hombre Increíble en Hispanoamérica). Es la segunda entrega del universo cinematográfico de Marvel. <br><br>Protagonizada por Edward Norton, Liv Tyler, Tim Roth, Tim Blake Nelson, Ty Burrell y William Hurt. <br><br>En The Incredible Hulk, Bruce Banner se convierte en Hulk como un peón involuntario en un esquema militar para revitalizar el programa del supersoldado a través de radiación gamma. <br><br>A lo largo del filme, Banner intenta librarse de Hulk antes de que el General Thaddeus «Thunderbolt» Ross lo capture, pero sus miedos se hacen realidad cuando el soldado Emil Blonsky, hambriento de poder, se convierte en una criatura similar pero más poderosa. ",
+        "poster": "https://pics.filmaffinity.com/the_incredible_hulk-175130941-large.jpg",
+        "trailer": "https://www.youtube.com/embed/xbqNb2PFKKA?si=U3WidRQs-_9WmI03"
+    },
+    {
+        "codigo": "03",
+        "titulo": "Iron Man 2",
+        "año": "2010",
+        "director": "Jon Favreau",
+        "duracion": "124 minutos",
+        "info": "Iron Man 2 es la tercera entrega del universo cinematográfico de Marvel. <br><br>Protagonizada por Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Scarlett Johansson, Sam Rockwell, Paul Bettany, Mickey Rourke y Samuel L. Jackson. <br><br>Seis meses después de los eventos de Iron Man, Tony Stark se resiste a los llamados del gobierno de los Estados Unidos para entregar la tecnología de Iron Man, al mismo tiempo que combate su salud deteriorada debido al reactor arc en su pecho. <br><br>Mientras tanto, el malvado científico ruso Ivan Vanko ha desarrollado la misma tecnología y construido armas propias para vengarse de la familia Stark, uniendo fuerzas con el empresario rival de Stark, Justin Hammer, en el proceso. ",
+        "poster": "https://pics.filmaffinity.com/iron_man_2-466103197-large.jpg",
+        "trailer": "https://www.youtube.com/embed/qsRZghNciIo?si=WiMl8jKtFRKS79uv"
+    },
+    {
+        "codigo": "04",
+        "titulo": "Thor",
+        "año": "2011",
+        "director": "Kenneth Branagh",
+        "duracion": "115 minutos",
+        "info": "La cuarta entrega del universo cinematográfico de Marvel. <br><br>Está protagonizada por Chris Hemsworth, Tom Hiddleston, Natalie Portman, Stellan Skarsgård, Idris Elba, Jaimie Alexander, Colm Feore, Rene Russo, Anthony Hopkins. <br><br>El filme cuenta la historia de Thor, el príncipe heredero de Asgard, que es exiliado de su hogar a la Tierra. Estando allí, forma una relación con Jane Foster, una científica. Sin embargo, Thor debe detener a su hermano adoptivo Loki, que pretende convertirse en el nuevo rey de Asgard. ",
+        "poster": "https://pics.filmaffinity.com/thor-223512549-large.jpg",
+        "trailer": "https://www.youtube.com/embed/JOddp-nlNvQ?si=m0zV4dCKa9H3ikXB"
+    },
+    {
+        "codigo": "05",
+        "titulo": "Capitán América <br> El primer Vengador",
+        "año": "2011",
+        "director": "Joe Johnston",
+        "duracion": "124 minutos",
+        "info": "Capitán América: el primer vengador (título original en inglés: Captain America: The First Avenger) es la quinta entrega del universo cinematográfico de Marvel. <br><br>Protagonizada por Chris Evans, Hugo Weaving, Hayley Atwell, Sebastian Stan, Dominic Cooper, Neal McDonough, Derek Luke, Kenneth Choi, Stanley Tucci, y Tommy Lee Jones. <br><br>El filme transcurre en su mayor parte durante la Segunda Guerra Mundial, y cuenta la historia de Steve Rogers, un hombre enfermizo de Brooklyn que se transforma en el super soldado Capitán América para ayudar en la guerra. <br><br>Rogers debe detener a Red Skull, el despiadado jefe de armamento de Adolf Hitler y el líder de una organización llamada HYDRA, que pretende usar un artefacto llamado el Teseracto como una fuente de energía para dominar el mundo. ",
+        "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9bzgPehP3vvkuul9oNnk3bX6TjclMtVjLWM9S3GvtHknLHCBX",
+        "trailer": "https://www.youtube.com/embed/JerVrbLldXw?si=ScyGpuidHMFfivMJ"
+    },
+    {
+        "codigo": "06",
+        "titulo": "Los Vengadores",
+        "año": "2012",
+        "director": "Joss Whedon",
+        "duracion": "143 minutos",
+        "info": "Marvels The Avengers (titulada The Avengers: Los Vengadores en Hispanoamérica y Los Vengadores en España), o simplemente The Avengers, es la sexta película del Universo cinematográfico de Marvel (UCM). <br><br>Cuenta con un reparto coral que incluye a Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson y Jeremy Renner como el equipo titular, junto a Tom Hiddleston, Clark Gregg, Cobie Smulders, Stellan Skarsgård y Samuel L. Jackson. <br><br>En The Avengers, Nick Fury, director de la agencia de espionaje S.H.I.E.L.D., recluta a Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff y Clint Barton para formar un equipo que debe evitar que Loki, hermano de Thor, se apodere de la Tierra. ",
+        "poster": "https://pics.filmaffinity.com/the_avengers-439499921-large.jpg",
+        "trailer": "https://www.youtube.com/embed/4mwtDHovB3w?si=7aC8Xf1woiyjHeT-"
+    },
+    {
+        "codigo": "07",
+        "titulo": "Iron Man 3",
+        "año": "2013",
+        "director": "Shane Black",
+        "duracion": "131 minutos",
+        "info": "Iron Man 3 (estilizado en pantalla como Iron Man Three). Es la tercera y última entrega de la Trilogía de Iron Man, y la séptima película en el Universo cinematográfico de Marvel (UCM). <br><br>Protagonizada por Robert Downey Jr. como Tony Stark / Iron Man, junto a Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stéphanie Szostak, James Badge Dale, Jon Favreau y Ben Kingsley. <br><br>En Iron Man 3, Tony Stark lucha con las ramificaciones de los eventos de The Avengers, durante una campaña nacional de terrorismo en los Estados Unidos al mando del misterioso Mandarín. ",
+        "poster": "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-large.jpg",
+        "trailer": "https://www.youtube.com/embed/bKWvs_yCT6c?si=vEsutIPkSoiHGN2Q"
+    },
+    {
+        "codigo": "08",
+        "titulo": "Thor <br> Un mundo oscuro",
+        "año": "2013",
+        "director": "Alan Taylor",
+        "duracion": "112 minutos",
+        "info": "Thor: The Dark World (titulada Thor: un mundo oscuro en Hispanoamérica y Thor: el mundo oscuro en España). Es la secuela de Thor (2011) y la octava película en el Universo cinematográfico de Marvel (UCM). <br><br>Protagonizada por Chris Hemsworth como Thor, junto a Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Idris Elba, Christopher Eccleston, Adewale Akinnuoye-Agbaje, Kat Dennings, Ray Stevenson, Zachary Levi, Tadanobu Asano, Jaimie Alexander y Rene Russo. <br><br>En Thor: The Dark World, Thor se une a Loki para salvar los Nueve Reinos de los elfos oscuros al mando del vengativo Malekith, que pretende hundir al universo en la oscuridad. ",
+        "poster": "https://pics.filmaffinity.com/thor_the_dark_world-763570829-large.jpg",
+        "trailer": "https://www.youtube.com/embed/jmVa1kNDnWA?si=lBARsT_gOwk-3DaT"
+    },
+    {
+        "codigo": "09",
+        "titulo": "Capitán América <br> El Soldado de Invierno",
+        "año": "2014",
+        "director": "Anthony Russo y Joe Russo",
+        "duracion": "136 minutos",
+        "info": "Captain America: The Winter Soldier (titulada Capitán América: el Soldado de Invierno en España y Capitán América y el Soldado del Invierno en Hispanoamérica). Es la secuela de Capitán América: el primer vengador (2011) y la novena película del Universo cinematográfico de Marvel (UCM). <br><br>Protagonizada por Chris Evans, Scarlett Johansson, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grillo, Emily VanCamp, Hayley Atwell, Robert Redford y Samuel L. Jackson. <br><br>En Captain America: The Winter Soldier, Capitán América, Viuda Negra y Falcon se unen para descubrir una conspiración dentro de S.H.I.E.L.D. y enfrentar a un misterioso asesino conocido como el Soldado del Invierno. ",
+        "poster": "https://pics.filmaffinity.com/captain_america_the_winter_soldier-333149071-large.jpg",
+        "trailer": "https://www.youtube.com/embed/FmXjNGVpXUc?si=eMKMDLoiO8gFY1iB"
+    },
+    {
+        "codigo": "10",
+        "titulo": "Guardianes de la Galaxia",
+        "año": "2014",
+        "director": "James Gunn",
+        "duracion": "122 minutos",
+        "info": "Guardianes de la Galaxia (título original en inglés: Guardians of the Galaxy, retroactivamente llamada Guardianes de la Galaxia Vol. 1). Es la décima película del Universo cinematográfico de Marvel (UCM). <br><br>Cuenta con un reparto coral que incluye a Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, Bradley Cooper, Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, John C. Reilly, Glenn Close y Benicio del Toro. <br><br>En Guardianes de la Galaxia, Peter Quill forma una alianza incómoda con un grupo de delincuentes extraterrestres que intentan escapar después de robar un poderoso artefacto. ",
+        "poster": "https://pics.filmaffinity.com/guardians_of_the_galaxy-595487268-large.jpg",
+        "trailer": "https://www.youtube.com/embed/wP9MqhsHcqA?si=VTBLQS1atbgI__AE"
+    },
+    {
+        "codigo": "11",
+        "titulo": "Vengadores <br> La era de Ultrón",
+        "año": "2015",
+        "director": "Joss Whedon",
+        "duracion": "141 minutos",
+        "info": "Avengers: Age of Ultron (titulada Avengers: Era de Ultrón en Hispanoamérica y Vengadores: La era de Ultrón en España). Es la secuela de The Avengers (2012) y la undécima película del Universo cinematográfico de Marvel (UCM). <br><br>Cuenta con un reparto coral que incluye a Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans, Scarlett Johansson, Jeremy Renner, Don Cheadle, Aaron Taylor-Johnson, Elizabeth Olsen, Paul Bettany, Cobie Smulders, Anthony Mackie, Hayley Atwell, Idris Elba, Stellan Skarsgård, James Spader y Samuel L. Jackson. <br><br>En Avengers: Age of Ultron, los Vengadores combaten a Ultrón, una inteligencia artificial obsesionada con causar la extinción de la humanidad. ",
+        "poster": "https://pics.filmaffinity.com/avengers_age_of_ultron_the_avengers_2-182285335-large.jpg",
+        "trailer": "https://www.youtube.com/embed/hTCQgyrIt8g?si=Iv7HXf4qWgBzwo11"
+    },
+    {
+        "codigo": "12",
+        "titulo": "Ant-Man",
+        "año": "2015",
+        "director": "Peyton Reed",
+        "duracion": "117 minutos",
+        "info": "Ant-Man (titulada Ant-Man: el hombre hormiga en Hispanoamérica). Es la duodécima película del Universo cinematográfico de Marvel (UCM). <br><br>La protagoniza Paul Rudd como Scott Lang / Ant-Man, junto a Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip Harris, Anthony Mackie, Wood Harris, Judy Greer, David Dastmalchian, y Michael Douglas como Hank Pym. <br><br>En Ant-Man, Lang debe ayudar a defender la tecnología de reducción de Pym y planear un robo con ramificaciones globales. ",
+        "poster": "https://pics.filmaffinity.com/ant_man-627211491-large.jpg",
+        "trailer": "https://www.youtube.com/embed/mBv4FSyg-P4?si=npPfurqbkUhnSwYo"
+    },
+    {
+        "codigo": "13",
+        "titulo": "Capitán América <br> Civil War",
+        "año": "2016",
+        "director": "Anthony Russo y Joe Russo",
+        "duracion": "147 minutos",
+        "info": "Capitán América: Civil War (título original en inglés: Captain America: Civil War). Es la secuela de Capitán América: el primer vengador (2011) y Captain America: The Winter Soldier (2014), y la decimotercera película del Universo cinematográfico de Marvel (MCU). <br><br>Protagonizada por Chris Evans como Steve Rogers / Capitán América, junto a un reparto coral que incluye a Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Elizabeth Olsen, Don Cheadle, Chadwick Boseman, Paul Bettany, Jeremy Renner, Paul Rudd, Emily VanCamp, Frank Grillo, Tom Holland, William Hurt y Daniel Brühl. <br><br>En Capitán América: Civil War, el desacuerdo sobre la supervisión internacional de los Vengadores los fractura en facciones opuestas, una liderada por Steve Rogers y otra por Tony Stark. ",
+        "poster": "https://pics.filmaffinity.com/captain_america_civil_war_aka_captain_america_3-298011137-large.jpg",
+        "trailer": "https://www.youtube.com/embed/IZAfpXFY3xw?si=aKEtBUkw5NcCnkT9"
+    },
+    {
+        "codigo": "14",
+        "titulo": "Doctor Strange",
+        "año": "2016",
+        "director": "Scott Derrickson",
+        "duracion": "115 minutos",
+        "info": "Doctor Strange (titulada Doctor Strange (Doctor Extraño) en España y Doctor Strange: Hechicero Supremo en Hispanoamérica). Es la decimocuarta película del Universo cinematográfico de Marvel (UCM). <br><br>Protagonizada por Benedict Cumberbatch como el personaje principal, junto a Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin Bratt, Scott Adkins, Mads Mikkelsen y Tilda Swinton. <br><br>En Doctor Strange, el excirujano Stephen Strange aprende las artes místicas después de un accidente de automóvil que termina con su carrera. ",
+        "poster": "https://pics.filmaffinity.com/doctor_strange-883697036-large.jpg",
+        "trailer": "https://www.youtube.com/embed/7KWHCaCJVoc?si=sfK8lXk-iXLOsSZW"
+    },
+    {
+        "codigo": "15",
+        "titulo": "Guardianes de la Galaxia Vol. 2",
+        "año": "2017",
+        "director": "James Gunn",
+        "duracion": "137 minutos",
+        "info": "Guardianes de la Galaxia vol. 2 (título original en inglés: Guardians of the Galaxy Vol. 2). Es la secuela de Guardianes de la Galaxia (2014) y la decimoquinta película del Universo cinematográfico de Marvel. <br><br>Cuenta con un reparto coral que incluye a Chris Pratt, Zoe Saldaña, Dave Bautista, Vin Diesel, Bradley Cooper, Michael Rooker, Karen Gillan, Pom Klementieff, Elizabeth Debicki, Chris Sullivan, Sean Gunn, Sylvester Stallone y Kurt Russell. <br><br>En Guardianes de la Galaxia Vol. 2, los Guardianes continúan sus aventuras, con nuevas alianzas de por medio, mientras Peter Quill se encuentra con una cara inesperada: su padre, Ego. ",
+        "poster": "https://pics.filmaffinity.com/guardians_of_the_galaxy_vol_2-755407784-large.jpg",
+        "trailer": "https://www.youtube.com/embed/1jd55ph3oqQ?si=culi3LRX3otVSWro"
+    },
+    {
+        "codigo": "16",
+        "titulo": "Spider-Man <br> Homecoming",
+        "año": "2017",
+        "director": "Jon Watts",
+        "duracion": "133 minutos",
+        "info": "Spider-Man: Homecoming (titulada Spider-Man: De regreso a casa en Hispanoamérica). Es el segundo reinicio cinematográfico de Spider-Man y la decimosexta película del Universo cinematográfico de Marvel (UCM). <br><br>Protagonizada por Tom Holland como el personaje principal, junto a Michael Keaton, Jon Favreau, Laura Harrier, Zendaya, Donald Glover, Tyne Daly, Marisa Tomei y Robert Downey Jr. <br><br>En Spider-Man: Homecoming, Peter Parker intenta equilibrar la vida escolar con ser Spider-Man, mientras se enfrenta al Buitre. ",
+        "poster": "https://pics.filmaffinity.com/spider_man_homecoming-336093112-large.jpg",
+        "trailer": "https://www.youtube.com/embed/sfPWvYKKAJ4?si=3IksC_C6D6KJbqJE"
+    },
+    {
+        "codigo": "17",
+        "titulo": "Thor <br> Ragnarok",
+        "año": "2017",
+        "director": "Taika Waititi",
+        "duracion": "130 minutos",
+        "info": "Thor: Ragnarok es la secuela de Thor (2011) y Thor: The Dark World (2013), y la decimoséptima película en el Universo cinematográfico de Marvel (UCM). <br><br>Protagonizada por Chris Hemsworth, Tom Hiddleston, Cate Blanchett, Idris Elba, Jeff Goldblum, Tessa Thompson, Karl Urban, Mark Ruffalo y Anthony Hopkins. <br><br>En Thor: Ragnarok, Thor debe escapar del planeta alienígena Sakaar a tiempo para salvar Asgard de Hela y prevenir el inminente Ragnarök. ",
+        "poster": "https://pics.filmaffinity.com/thor_ragnarok-115636540-large.jpg",
+        "trailer": "https://www.youtube.com/embed/CM0rr8SPdlI?si=xkFhemjMrlzSWodK"
+    },
+    {
+        "codigo": "18",
+        "titulo": "Black Panther",
+        "año": "2018",
+        "director": "Ryan Coogler",
+        "duracion": "134 minutos",
+        "info": "Black Panther (traducido en algunos países como Pantera Negra) es la decimoctava película del Universo cinematográfico de Marvel (UCM). <br><br>Protagonizada por Chadwick Boseman como TChalla / Black Panther, junto con Michael B. Jordan, Lupita Nyongo, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Angela Bassett, Forest Whitaker y Andy Serkis. <br><br>En Black Panther, TChalla es coronado rey de Wakanda tras la muerte de su padre, pero su soberanía es cuestionada por un adversario que planea abandonar las políticas aislacionistas del país e iniciar una revolución mundial. ",
+        "poster": "https://pics.filmaffinity.com/black_panther-992613805-large.jpg",
+        "trailer": "https://www.youtube.com/embed/JcIye2DaZwI?si=Qq-q3l8jF6g_h77n"
+    },
+    {
+        "codigo": "19",
+        "titulo": "Vengadores <br> Infinity War",
+        "año": "2018",
+        "director": "Anthony Russo y Joe Russo",
+        "duracion": "149 minutos",
+        "info": "Avengers: Infinity War (titulada Vengadores: Infinity War en España) es la secuela de The Avengers (2012) y Avengers: Age of Ultron (2015), ubicándose como la decimonovena película del Universo cinematográfico de Marvel. <br><br>Cuenta con un reparto coral que incluye a Robert Downey Jr., Chris Evans, Chris Hemsworth, Mark Ruffalo, Scarlett Johansson, Don Cheadle, Benedict Cumberbatch, Tom Holland, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Anthony Mackie, Sebastian Stan, Danai Gurira, Letitia Wright, Karen Gillan, Dave Bautista, Zoe Saldaña, Vin Diesel, Bradley Cooper, Josh Brolin y Chris Pratt. <br><br>En Avengers: Infinity War, Los Vengadores y los Guardianes de la Galaxia intentan evitar que Thanos obtenga las poderosas Gemas del Infinito. ",
+        "poster": "https://pics.filmaffinity.com/avengers_infinity_war-181539353-large.jpg",
+        "trailer": "https://www.youtube.com/embed/823iAZOEKt8?si=5PVWKlAnUcR-EH-O"
+    },
+    {
+        "codigo": "20",
+        "titulo": "Ant-Man y la Avispa",
+        "año": "2018",
+        "director": "Peyton Reed",
+        "duracion": "118 minutos",
+        "info": "Ant-Man and the Wasp (titulada como Ant-Man y la Avispa en España) es la secuela de Ant-Man (2015) y la vigésima película del Universo cinematográfico de Marvel (UCM). <br><br>Está protagonizada por Rudd como Lang y Evangeline Lilly como Van Dyne, junto a Michael Peña, Walton Goggins, Bobby Cannavale, Judy Greer, Tip Harris, David Dastmalchian, Hannah John-Kamen, Abby Ryder Fortson, Randall Park, Michelle Pfeiffer, Laurence Fishburne y Michael Douglas. <br><br>En Ant-Man and the Wasp, la pareja titular trabaja con Hank Pym para recuperar a Janet van Dyne del reino cuántico. ",
+        "poster": "https://pics.filmaffinity.com/ant_man_and_the_wasp-808025952-large.jpg",
+        "trailer": "https://www.youtube.com/embed/1xdCWAagZfw?si=G2y1R_54tw3P98Vu"
+    },
+    {
+        "codigo": "21",
+        "titulo": "Capitana Marvel",
+        "año": "2019",
+        "director": "Anna Boden y Ryan Fleck",
+        "duracion": "124 minutos",
+        "info": "Capitana Marvel (título original en inglés: Captain Marvel) es la vigesimoprimera película del Universo cinematográfico de Marvel (UCM, por sus siglas en español). <br><br>Brie Larson protagoniza en el papel titular, junto a Jude Law, Ben Mendelsohn, Lashana Lynch, Gemma Chan, Lee Pace, Clark Gregg, Annette Bening y Samuel L. Jackson. <br><br>Situada en el año 1995, la historia sigue a Carol Danvers, una piloto de la Fuerza Aérea de Estados Unidos, que se convierte en la Capitana Marvel después de que la Tierra haya quedado atrapada en el centro de un conflicto intergaláctico entre dos razas alienígenas. ",
+        "poster": "https://pics.filmaffinity.com/captain_marvel-457800899-large.jpg",
+        "trailer": "https://www.youtube.com/embed/6XkN-MFNZpI?si=hXmkgN2iDKuGOn4Z"
+    },
+    {
+        "codigo": "22",
+        "titulo": "Vengadores <br> Endgame",
+        "año": "2019",
+        "director": "Anthony Russo y Joe Russo",
+        "duracion": "181 minutos",
+        "info": "Avengers: Endgame (Vengadores: Endgame en España) es la secuela directa de Avengers: Infinity War (2018) y la película número 22 del Universo cinematográfico de Marvel (UCM). <br><br>Cuenta con un reparto coral que incluye a Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, Jeremy Renner, Don Cheadle, Paul Rudd, Brie Larson, Karen Gillan, Danai Gurira, Benedict Wong, Jon Favreau, Bradley Cooper, Gwyneth Paltrow y Josh Brolin. <br><br>En la película, los miembros supervivientes de Los Vengadores y sus aliados intentan revertir el daño causado por Thanos en Infinity War. ",
+        "poster": "https://pics.filmaffinity.com/avengers_endgame-135478227-large.jpg",
+        "trailer": "https://www.youtube.com/embed/znk2OICHbjY?si=3O25neUhs23eQFFe"
+    },
+    {
+        "codigo": "23",
+        "titulo": "Spider-Man <br> Far From Home",
+        "año": "2019",
+        "director": "Jon Watts",
+        "duracion": "129 minutos",
+        "info": "Spider-Man: lejos de casa (en inglés: Spider-Man: Far from Home) es la secuela de Spider-Man: Homecoming. (2017), la película número 23 en el Universo cinematográfico de Marvel y la última de la Fase 3 y de la «Infinity Saga». <br><br>Protagonizada por Tom Holland como Peter Parker / Spider-Man, junto a Samuel L. Jackson, Zendaya, Cobie Smulders, Jon Favreau, J. B. Smoove, Jacob Batalon, Martin Starr, Marisa Tomei, y Jake Gyllenhaal. <br><br>En la película, Parker es reclutado por Nick Fury (Jackson) y Mysterio (Gyllenhaal) para enfrentarse a los Elementales mientras él está en un viaje escolar a Europa. ",
+        "poster": "https://pics.filmaffinity.com/spider_man_far_from_home-339542528-large.jpg",
+        "trailer": "https://www.youtube.com/embed/PE3L0HHtOV0?si=oGFGC-g5w5wR829A"
+    }
+]

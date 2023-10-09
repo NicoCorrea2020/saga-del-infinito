@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./img/faviconGuantelete.png" type="image/x-icon">
+    <title>Saga del Infinito | Marvel Cinematic Universe</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@700&family=Montserrat:ital@0;1&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="./css/master.css">
+</head>
+
+<body>
+    <div class="conteiner" id="conteiner">
+
+        <header class="encabezado">
+            <div>
+                <nav class="menu">
+                    <img src="./img/logoTheInfinitySaga.png" alt="The Infinity Saga" class="logo">
+                    <!--
+                    <input type="radio" name="my-input" class="botones" id="btnOpen">
+                    <label for="btnOpen" class="botones" id="open">
+                        <i> <ion-icon name="menu-outline" alt="Abrir menú"></ion-icon> </i>
+                    </label>
+                    <input type="radio" name="my-input" class="botones" id="btnClose">
+                    <label for="btnClose" class="botones" id="close">
+                        <i> <ion-icon name="close-outline" alt="Cerrar menú"></ion-icon> </i>
+                    </label>
+                    <ul class="opciones">
+                        <li> <a href="">Fase 1</a> </li>
+                        <li> <a href="">Fase 2</a> </li>
+                        <li> <a href="">Fase 3</a> </li>
+                        <li> <a href="">Favoritos</a> </li>
+                    </ul>
+                    -->
+                </nav>
+            </div>
+        </header>
+        <div class="volverInicio">
+            <a href="#">
+                <ion-icon name="caret-up-circle-outline" alt="Volver inicio"></ion-icon>
+            </a>
+        </div>
+        <section class="banner">
+            <img class="bannerImgGemas" src="./img/gemasSinFondo.png" alt="Imagen Banner Gemas">
+        </section>
+
+        <section class="detalleCaja" id="detalleCaja">
+            <!--ESTRUCTURAR CAJA ACA, no hace falta hacerlo en el .js-->
+            <article class="articulo">
+                <article class="subArt">
+                    <div class="poster" id="poster"></div>
+                </article>
+                <article class="subArt">
+                    <h2 id="titulo"></h2>
+                    <h4 id="año"></h4>
+                    <h4 id="director"></h4>
+                    <h6 id="duracion"></h6>
+                    <p id="info"></p>
+                    <div id="trailer"></div>
+                    <div class="boton">
+                        <a href="index.html" id="botonInicio" class="botonInicio"><button>Regresar Inicio</button></a>
+                    </div>
+                </article>                
+            </article>
+        </section>
+
+        <footer>
+            <h1>footer</h1>
+        </footer>
+
+    </div>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script src="./js/detalle.js"></script>
+    <script src="./js/master.js"></script>
+</body>
+
+</html>

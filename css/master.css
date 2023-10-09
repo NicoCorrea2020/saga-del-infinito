@@ -1,0 +1,202 @@
+/*=== CSS Global ===*/
+:root{
+    --color1: #ccb494;
+    --color2: #242424;
+    --color3: #FEEDD9;
+    --color4: #84a4a450;
+    --color5: #ac4434;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body {
+    background-color: var(--color2);
+    color: var(--color4);
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background-color: var(--color4);
+    box-shadow: 0px 8px 7px 5px  var(--color4);
+}
+
+footer {
+    background-color: var(--color1);
+    display: none;
+}
+
+/*=== CSS Encabezado ===*/
+.encabezado {
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+.botones {
+    display: none;
+}
+.logo{
+    float: left;
+    padding-top: 5px;
+    height: 50px;
+    align-items: center;
+    justify-items: left;
+}
+.menu {
+    display: flex;
+}
+.opciones {
+    text-transform: uppercase;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    justify-items: right;
+    width: 80%;
+}
+.opciones li a{
+    color: var(--color2);
+}
+
+/*=== CSS Banner ===*/
+.bannerImg{
+    width: 100%;
+    height: auto;
+}
+.banner{
+    position: relative;
+    z-index: 50;
+}
+.bannerImgGemas{
+    padding-top: 70px;
+    width: 100%;
+    height: auto;
+}
+.logoBanner{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*=== CSS Boton Volver Arriba ===*/
+.volverInicio a {
+    font-size: 50px;
+    color: var(--colorLetraGeneral);
+    position: fixed;
+    z-index: 49;
+    right: 5%;
+    top: 75%;
+    opacity: 0.5;
+}
+
+/*=== CSS Cuerpo Pagina Index ===*/
+.tituloPrincipal{
+    color: var(--color5);
+    font-family: 'Montserrat Subrayada', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
+}
+.peliculasCaja {
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(
+            200px,
+            1fr
+        )
+    );
+    gap: 10px;
+    padding: 10px;
+}
+/*.pelicula{
+}*/
+.peliculaPoster{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.botonInfo button{
+    padding: 2px;
+}
+
+
+/*=== CSS Pagina Detalle ===*/
+.boton{
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+.botonInicio button{
+    cursor: pointer;
+    padding: 6px;
+}
+.articulo {
+    display: grid;
+    grid-template-columns: 50% 1fr;      
+}
+.subArt{
+    padding: 10px;
+}
+.poster img{
+    width: 100%;
+    padding: 15px;
+}
+.posterDetalle{
+    border-radius: 10px;
+}
+#titulo{
+    text-transform: uppercase;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    text-align: center;
+    color: var(--color5);
+    padding: 10px;
+}
+#año{
+    text-align: center;
+    color: var(--color1);
+}
+#director{
+    text-align: center;
+    color: var(--color1);
+}
+#duracion{
+    text-align: center;
+    color: var(--color1);
+    padding: 10px;
+}
+#info{
+    text-align: auto;
+    color: var(--color3);
+    padding: 15px;
+}
+#trailer{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+/*=== CSS Responsive - Media query's ===*/
+@media (max-width: 1049px) {
+    .encabezado {
+        height: 60px;
+    }
+    .logoBanner{
+        display: none;
+    }
+
+    .articulo {
+        display: grid;
+        grid-template-columns: 100%;
+    }
+}
